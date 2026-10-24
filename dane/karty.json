@@ -1,0 +1,110 @@
+[
+  {
+    "id": "smetana-weltawa",
+    "typ": "standard",
+    "kompozytor": "Bedřich Smetana",
+    "tytul": "Wełtawa (z cyklu „Moja ojczyzna”)",
+    "rok": 1874,
+    "epoka": "romantyzm",
+    "kraj": "Czechy",
+    "spotify_uri": null,
+    "start_s": 0,
+    "tabu": ["Smetana", "Wełtawa", "Moja ojczyzna"],
+    "podpowiedzi": [
+      "Opowiada o rzece płynącej przez Pragę — od źródeł aż do miasta.",
+      "Autor pisał to, będąc już całkowicie głuchy.",
+      "Główny motyw jest bardzo podobny do hymnu Izraela."
+    ],
+    "do_weryfikacji": true
+  },
+  {
+    "id": "chopin-etiuda-rewolucyjna",
+    "typ": "standard",
+    "kompozytor": "Fryderyk Chopin",
+    "tytul": "Etiuda c-moll op. 10 nr 12 „Rewolucyjna”",
+    "rok": 1831,
+    "epoka": "romantyzm",
+    "kraj": "Polska",
+    "spotify_uri": null,
+    "start_s": 0,
+    "tabu": ["Chopin", "Rewolucyjna", "etiuda"],
+    "podpowiedzi": [
+      "Autor był w Stuttgarcie, gdy dowiedział się, że Rosjanie zdobyli Warszawę po upadku powstania listopadowego.",
+      "Jego imieniem nazwano największe lotnisko w Polsce.",
+      "Zmarł w Paryżu w wieku 39 lat, a jego serce wróciło do kościoła Świętego Krzyża w Warszawie."
+    ],
+    "do_weryfikacji": true
+  },
+  {
+    "id": "beethoven-dla-elizy",
+    "typ": "popkultura",
+    "kompozytor": "Ludwig van Beethoven",
+    "tytul": "Dla Elizy (Bagatela a-moll WoO 59)",
+    "rok": 1810,
+    "epoka": "klasycyzm",
+    "kraj": "Niemcy / Austria",
+    "spotify_uri": null,
+    "start_s": 0,
+    "tabu": ["Beethoven", "Eliza", "Elise"],
+    "podpowiedzi": [
+      "Na Tajwanie grają to śmieciarki, żeby mieszkańcy wiedzieli, że trzeba wynieść śmieci.",
+      "Opublikowano to dopiero 40 lat po śmierci autora i do dziś nie wiadomo, kim była tytułowa kobieta.",
+      "Autor pod koniec życia był głuchy."
+    ],
+    "do_weryfikacji": true
+  },
+  {
+    "id": "wagner-cwal-walkirii",
+    "typ": "popkultura",
+    "kompozytor": "Richard Wagner",
+    "tytul": "Cwał Walkirii (z „Walkirii”)",
+    "rok": 1856,
+    "epoka": "romantyzm",
+    "kraj": "Niemcy",
+    "spotify_uri": null,
+    "start_s": 0,
+    "tabu": ["Wagner", "Walkiria", "Walkirie", "cwał"],
+    "podpowiedzi": [
+      "Helikoptery atakują wioskę w „Czasie Apokalipsy”.",
+      "Mitologia nordycka: dziewice-wojowniczki zabierają poległych do Walhalli.",
+      "Autor zbudował sobie własny teatr w Bayreuth, gdzie do dziś co roku odbywa się festiwal."
+    ],
+    "do_weryfikacji": true
+  },
+  {
+    "id": "bach-inwencja-1",
+    "typ": "repertuar",
+    "kompozytor": "Johann Sebastian Bach",
+    "tytul": "Inwencja dwugłosowa nr 1 C-dur BWV 772",
+    "rok": 1723,
+    "epoka": "barok",
+    "kraj": "Niemcy",
+    "spotify_uri": null,
+    "start_s": 0,
+    "tabu": ["Bach", "inwencja"],
+    "podpowiedzi": [
+      "Napisane do nauki gry dla najstarszego syna autora.",
+      "Autor miał dwadzieścioro dzieci.",
+      "W roku powstania tej wersji autor zaczął pracę jako kantor w kościele św. Tomasza w Lipsku."
+    ],
+    "do_weryfikacji": true
+  },
+  {
+    "id": "grieg-w-grocie-krola-gor",
+    "typ": "standard",
+    "kompozytor": "Edvard Grieg",
+    "tytul": "W grocie Króla Gór (z „Peer Gynta”)",
+    "rok": 1875,
+    "epoka": "romantyzm",
+    "kraj": "Norwegia",
+    "spotify_uri": null,
+    "start_s": 0,
+    "tabu": ["Grieg", "Peer Gynt", "Król Gór", "grota"],
+    "podpowiedzi": [
+      "Muzyka do sztuki Ibsena o norweskim włóczędze, który trafia do królestwa trolli.",
+      "Morderca w filmie „M” Fritza Langa gwiżdże ten motyw.",
+      "Pojawia się w scenie regat wioślarskich w „The Social Network”."
+    ],
+    "do_weryfikacji": true
+  }
+]
