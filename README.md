@@ -1,0 +1,1 @@
+# hitster-for-smart-kids
